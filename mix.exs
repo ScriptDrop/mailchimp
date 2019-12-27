@@ -3,7 +3,7 @@ defmodule Mailchimp.Mixfile do
 
   def project do
     [
-      app: :mailchimp,
+      app: :scriptdrop_mailchimp,
       version: "0.0.7",
       elixir: "~> 1.4",
       aliases: aliases(),
@@ -52,7 +52,6 @@ defmodule Mailchimp.Mixfile do
       files: ["lib", "mix.exs", "README.md", "LICENSE"],
       maintainers: ["ScriptDrop"],
       licenses: ["MIT"],
-      name: "scriptdrop_mailchimp",
       links: %{"GitHub" => "https://github.com/ScriptDrop/mailchimp"}
     ]
   end
