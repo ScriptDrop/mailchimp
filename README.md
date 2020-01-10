@@ -1,3 +1,6 @@
+Forked from: [original mailchimp repo](https://github.com/duartejc/mailchimp)
+because the original isn't being actively released to hex.pm
+
 [![Hex Version](http://img.shields.io/hexpm/v/mailchimp.svg)](https://hex.pm/packages/mailchimp)
 
 This is a basic Elixir wrapper for version 3 of the MailChimp API.
