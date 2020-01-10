@@ -4,7 +4,7 @@ defmodule Mailchimp.Mixfile do
   def project do
     [
       app: :scriptdrop_mailchimp,
-      version: "0.0.7",
+      version: "0.0.8",
       elixir: "~> 1.4",
       aliases: aliases(),
       description: description(),
